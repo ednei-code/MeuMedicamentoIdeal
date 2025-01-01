@@ -1,1 +1,4 @@
 "Neste projeto, exploramos o potencial da ciência de dados para otimizar a prescrição de medicamentos. A partir de um dataset com mais de 11 mil fármacos, realizamos uma análise exploratória minuciosa e aplicamos técnicas de pré-processamento de dados. Com base nesse conjunto de dados limpo e organizado, desenvolvemos um sistema de recomendação utilizando o algoritmo de similaridade cosseno, uma técnica eficiente para encontrar itens similares em um espaço vetorial. Os resultados obtidos demonstram a capacidade do modelo em fornecer recomendações precisas e relevantes, auxiliando profissionais da saúde na escolha do medicamento mais adequado para cada paciente."
+
+"Sou Ednei, cientista de dados apaixonado por extrair valor de dados complexos. Com experiência em machine learning, análise preditiva, etc..., dedico-me a transformar dados em insights acionáveis que impulsionam a tomada de decisões estratégicas.
+contato = ednei.adgpo@gmail.com 
